@@ -15,4 +15,4 @@ DebtToIncomeRatio : The debt to income ratio of the borrower at the time the cre
 Term: The length of the loan expressed in months.
 MonthlyLoanPayment:The scheduled monthly loan payment.
 
-In this project, I have tried to identify the correlation between these metrics using univariate, bivariate and multivariate analysis. Also,I have tried to understand how the relationship between the main variables gets impacted when a supporting variable included in the analysis. Please refer the python file to get in-depth details of my analysis.
+In this project, I have tried to identify the correlation between these metrics using univariate, bivariate and multivariate analysis. Also, I have tried to understand how the relationship between the main variables gets impacted when a supporting variable included in the analysis. I have used “Term “ and  “Prosper rating” as my secondary variables. These variables helped me understand the pattern of my key variables better. Please refer the python file to get in-depth details of my analysis.
