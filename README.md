@@ -14,4 +14,4 @@ In this project, I have tried to identify the correlation between the metrics Lo
 
 ## Key Insights for Presentation
 For my presentation I have chosen loan amount as my key variable and explored its relationship with interest rate and monthly loan payments. Also, to understand a little more, I have introduced secondary variables such as term, income range and prosper rating.  From the further analysis we can conclude that, income range and prosper rating have a positive impact on getting higher loans and better interest rates. 
-![image](https://user-images.githubusercontent.com/22756693/114401677-26d47680-9b71-11eb-8cfe-584d9962582f.png)
+	
